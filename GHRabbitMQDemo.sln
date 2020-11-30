@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHRabbitMQDemo", "GHRabbitMQDemo\GHRabbitMQDemo.csproj", "{AFCF701E-FC14-4BFA-8376-8E23DEC5F3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFCF701E-FC14-4BFA-8376-8E23DEC5F3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCF701E-FC14-4BFA-8376-8E23DEC5F3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCF701E-FC14-4BFA-8376-8E23DEC5F3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCF701E-FC14-4BFA-8376-8E23DEC5F3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
